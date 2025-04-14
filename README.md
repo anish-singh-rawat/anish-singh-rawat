@@ -1,7 +1,7 @@
 <h2 align="left">Hey there 👋 I'm Anish-Singh-Rawat ! (^///^)</h2>
 <h3 align="left">I do FullStack, Front-end || Back-end , Blockchain things.</h3>
 
-- 🔭 I’m currently working for QuadB Technologies
+- 🔭 I’m currently working for Ex Technologies
 
 - 🌱 I’m currently learning **Rust ICP**
 
