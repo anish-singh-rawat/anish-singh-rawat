@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [https://medium.com/@anishsinghrawat1](https://medium.com/@anishsinghrawat1)
 
-- 💬 Ask me about **Front-end Development || Backend Development and Communications, React, Rust, Internet Computer Blockchain.**
+- 💬 Ask me about **Front-end Development || Backend Development || CI/CD, React, Redis, Internet Computer Blockchain.**
 
 <p align="left">
 </p>
